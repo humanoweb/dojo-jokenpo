@@ -1,0 +1,24 @@
+Pontos Negativos  :(
+
+- Fizemos uma refatoração sem analisar o impacto antes;
+- 5 minutos é pouco tempo.Faremos 7 minutos no próximo;
+- Faltou manter o padrão iniciado de nomenclatura dos testes;
+- Faltou melhor comunicação entre piloto/co-piloto;
+- Não teve pizza! :/
+- Encontramos um erro bizarro relacionado ao hashCode e não soubemos responder. Dotôriano proverá a solução.
+
+
+Pontos Positivos  :)
+
+- Desmistificação do TDD;
+- Houve respeito mútuo;
+- Houve aprendizado / foi produtivo;
+- É uma forma lúdica de se aprender e debater melhores práticas;
+- Duração: 2 horas. Foi bom.
+
+
+Pontos Neutros  :|
+
+- Podemos usar mais de OO e padrões de projeto;
+- Deve ter um 'Sensei' para orientar e moderar o dojo;
+- O desafio (jokenpo) foi bom para iniciar no Dojo;
